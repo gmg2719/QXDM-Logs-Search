@@ -38,7 +38,7 @@ if len(dictSinglePhrase.keys()) > 0:
                 print("\nHere is the text of ", lineNumber, " : ", dictSinglePhrase[lineNumber])
                 print("\nHere is further detail of the Msg \n")
                 for i in range(lineNumber+1, lineNumber+30):
-                    if '2020 Feb 27  ' in dictRestPhrase[i]:
+                    if date in dictRestPhrase[i]:
                         break
                     else:
                         print(dictRestPhrase[i])
