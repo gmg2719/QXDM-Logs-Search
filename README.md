@@ -6,7 +6,7 @@ The script is written based on a sample QXDM text log provided.
 
 The script look for all the lines with date and extract the messages with regex for user
 
-Though script will do the job for all messages but text which may not be useful for testers not, suggested for search
+Though script will do the job for all messages but text which may not be useful for testers, not suggested for search
 
 However, testers can learn or get info for more than 300 messages, diplayed for users to choose from
 
