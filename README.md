@@ -16,3 +16,5 @@ Here is how it would look for a message which appeared only once in the log
 
 The script, however, give the luxury to user to go all occurance of the same messages one by one
 
+![image](https://user-images.githubusercontent.com/47313728/76745196-b02d3580-6732-11ea-88f0-66bb6bd0fbf1.png)
+
