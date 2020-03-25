@@ -15,7 +15,7 @@ Info specific to QXDM is not shown in this repository
 
 Here is how it would look for a message which appeared only once in the log
 
-The script gives the luxury to users to go all occurance of the same messages one by one by just entring the numeric value of the occurance
+The script gives the luxury to users to go all occurance of the same messages one by one by just entring the numeric value against the occurance
 
 ![image](https://user-images.githubusercontent.com/47313728/76745196-b02d3580-6732-11ea-88f0-66bb6bd0fbf1.png)
 
