@@ -9,7 +9,7 @@ The script look for all the lines with date and extract the messages with regex 
 
 Though script will do the job for all messages but text which may not be useful for testers, not suggested for search
 
-However, testers can learn or get info for more than 300 messages, diplayed for users to choose from
+However, testers can learn or get info for more than 300 messages, displayed for users to choose from
 
 Info specific to QXDM is not shown in this repository
 
